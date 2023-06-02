@@ -1,2 +1,2 @@
-# .github
+# DevsJrs
 Projeto README da Organização
