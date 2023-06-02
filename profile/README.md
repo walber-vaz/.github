@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Logo.png" width="250px">
+  <img src="https://github.com/DevsJrs/.github/blob/431cf249ce7903cb18cdd17b51f4975b2dd2b2b4/profile/Logo.png" width="250px">
   <h1>DevsJrs Para DevsJrs</h1>
 </div>
 
